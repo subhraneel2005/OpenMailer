@@ -1,0 +1,17 @@
+{
+    "templates": {
+      "fullstack": {
+        "body": "<p>Dear Hiring Manager,</p> <p>I am passionate about software development and have experience in both frontend and backend technologies. I am reaching out to explore any potential job opportunities at your esteemed company.</p> <p>Here are my profiles and projects:</p>"
+      },
+      "frontend": {
+        "body": "<p>Dear Hiring Manager,</p> <p>I have a strong passion for building intuitive and responsive user interfaces. With experience in modern frontend technologies, I am eager to contribute my skills to your team. I am reaching out to explore any potential job opportunities at your esteemed company.</p> <p>Here are my profiles and projects:</p>"
+      },
+      "backend": {
+        "body": "<p>Dear Hiring Manager,</p> <p>With expertise in backend development, API design, and database management, I am excited about building scalable and efficient systems. I am reaching out to explore any potential job opportunities at your esteemed company.</p> <p>Here are my profiles and projects:</p>"
+      },
+      "devops": {
+        "body": "<p>Dear Hiring Manager,</p> <p>As a DevOps Engineer, I specialize in automating workflows, CI/CD pipelines, and cloud infrastructure management. I am reaching out to explore any potential job opportunities at your esteemed company.</p> <p>Here are my profiles and projects:</p>"
+      }
+    }
+  }
+  

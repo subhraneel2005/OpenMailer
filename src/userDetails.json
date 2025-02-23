@@ -1,0 +1,38 @@
+{
+    "name": "Subhraneel Goswami",
+    "linkedin": "https://www.linkedin.com/in/subhraneel-goswami-599931282/",
+    "github": "https://github.com/subhraneel2005",
+    "twitter": "https://x.com/Subhraneel55545",
+    "projects": [
+      {
+        "name": "Form AI",
+        "link": "https://form-ai-rosy.vercel.app/"
+      },
+      {
+        "name": "Poplu Store",
+        "link": "https://www.poplu.store/"
+      },
+      {
+        "name": "Image Vault",
+        "link": "https://image-vault-io.vercel.app/"
+      },
+      {
+        "name": "RoastMyIdea",
+        "link": "https://roastmyidea.subhraneel.site/"
+      },
+      {
+        "name": "Schedulr",
+        "link": "https://schedulr.subhraneel.site/"
+      },
+      {
+        "name": "Getstart",
+        "link": "https://www.getstart.site/"
+      },
+      {
+        "name": "Blog Buddies",
+        "link": "https://blog-buddies.vercel.app/"
+      }
+    ],
+    "jobRole": "Backend Developer"
+  }
+  
